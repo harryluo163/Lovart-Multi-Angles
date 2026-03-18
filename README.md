@@ -4,6 +4,12 @@
 
 **angle-editor-3d** 是一个基于 Vue 3 和 Three.js 的 3D 角度编辑器应用。该项目提供了一个交互式的 3D 编辑界面，用户可以通过两种不同的模式来调整和预览图像或 3D 对象的角度。
 
+## 项目截图
+
+![项目截图1](https://github.com/harryluo163/Lovart-Multi-Angles/blob/main/pg1.png)
+
+![项目截图2](https://github.com/harryluo163/Lovart-Multi-Angles/blob/main/pg2.png)
+
 ### 主要功能
 
 - **双模式编辑器**
