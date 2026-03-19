@@ -52,7 +52,7 @@ const showAngleEditor = ref(false)
 const editorPosition = ref<'left' | 'right'>('left')
 const imageRef = ref<HTMLImageElement | null>(null)
 const imageWrapperRef = ref<HTMLDivElement | null>(null)
-const imageUrl = ref('./img.png')
+const imageUrl = ref('./img2.png')
 
 // 图片拖拽位置
 const imagePosition = ref({ x: 0, y: 0 })
